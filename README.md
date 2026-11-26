@@ -1,14 +1,19 @@
-# Elevate Studio Website
+# Elevate Studio – Digital Marketing Agency Website
 
-A responsive, static HTML/CSS/JavaScript website recreated from the supplied assignment PDF design.
+🌐 **[View Live Website](https://crossheartx48.github.io/Elevate-Studio/)**
 
-## Files
-- `index.html` — page structure and content
-- `style.css` — layout, colours, responsive styling and animations
-- `script.js` — mobile navigation, reveal effects, back-to-top and demo contact form
+A modern, responsive digital marketing agency website built using HTML, CSS and JavaScript.
 
-## Run locally
-Open `index.html` in a browser. For a local development server, use VS Code Live Server or run:
-`python -m http.server 8000`
+## Features
+- Responsive design for desktop and mobile
+- Animated sections and interactive navigation
+- Social Media Marketing, SEO and Paid Advertising service sections
+- About, Our Process and Contact sections
 
-Then visit `http://localhost:8000`.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Live Demo
+https://crossheartx48.github.io/Elevate-Studio/
